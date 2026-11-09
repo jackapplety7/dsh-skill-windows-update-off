@@ -1,0 +1,6 @@
+# local runtime artifacts
+*.log
+backup-*.json
+*.zip
+.DS_Store
+Thumbs.db
